@@ -12,4 +12,4 @@ obj1 = Person('ashu', 29, 'female')
 obj1.display()
 obj2 = Person('arun', 29, 'male')
 obj2.display()
-
+print("")
